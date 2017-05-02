@@ -1,6 +1,6 @@
 {
   "name": "strict-tag",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An es2015 template tag function that validates substitutions.",
   "main": "index.js",
   "egines": {
@@ -19,7 +19,10 @@
     "url": "https://github.com/johnvh/strict-tag/issues"
   },
   "keywords": [
-    "template", "tag", "es2015", "es6"
+    "template",
+    "tag",
+    "es2015",
+    "es6"
   ],
   "devDependencies": {
     "colortape": "^0.1.2",
